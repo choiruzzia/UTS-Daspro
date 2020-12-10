@@ -35,6 +35,7 @@ elif Status=='Honor':
         print('Bonus=Rp.',Bonus)
         print('Gaji total =Rp.',Gatot)
     elif Gol=='C':
+        Bonus=400000
         print('Gaji =Rp.',Gaji)
         print('Bonus=Rp.',Bonus)
         print('Gaji total =Rp.',Gatot)
